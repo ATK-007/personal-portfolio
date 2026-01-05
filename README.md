@@ -52,12 +52,19 @@ https://atk-007.github.io/personal-portfolio/
 
 ---
 
-## 📌 Future Improvements
+## 📸 Screenshots
 
-- Add project screenshots
-- Improve mobile responsiveness
-- Add animations and transitions
-- Convert to React-based portfolio
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 👤 Bio Page
+![Bio](screenshots/bio.png)
+
+### 🚀 Projects Page
+![Projects](screenshots/project.png)
+
+### 📞 Contact Page
+![Contact](screenshots/contact.png)
 
 ---
 
